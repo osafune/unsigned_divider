@@ -76,7 +76,7 @@ Port details
 ------------
 
 |name|direction|width|contents|
-|---|---|---|---|---|
+|---|---|---|---|
 |reset|in|1|Asynchronous reset|
 |clk|in|1|Clock input|
 |dividend|in|DIVIDEND_BITWIDTH|Input of a dividend|
